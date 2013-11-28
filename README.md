@@ -1,4 +1,3 @@
 LinkSender
 ==========
 
-Our programm - LinkSender
